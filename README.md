@@ -2,7 +2,7 @@
 
 **`Software Engineer Student`**
 
-Currently in school getting my Programming Degree. I don't know the full career path I would like to head toward yet. This is my journey to becoming a Professional in the field of programming.
+Currently in school getting my Computer Programming Degree. This is my journey...
 
 <p align='left'>
         <a href="https://github.com/quiet-ghost?tab=followers">
@@ -13,7 +13,7 @@ Currently in school getting my Programming Degree. I don't know the full career 
 
 ---
 
-### 🧰 Languages and Tools (not all leanred as of yet)
+### 🧰 Languages and Tools (Work in Progress)
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
