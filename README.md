@@ -4,12 +4,12 @@
 
 Currently in school getting my Programming Degree. I don't know the full career path I would like to head toward yet. This is my journey to becoming a Professional in the field of programming.
 
-    <p align='left'>
+<p align='left'>
         <a href="https://github.com/quiet-ghost?tab=followers">
             <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/quiet-ghost?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
         <a href="https://github.com/quiet-ghost?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/quiet-ghost?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-    </p>
+</p>
 
 ---
 
