@@ -2,7 +2,7 @@
 
 **`Software Engineer Student`**
 
-Currently in school getting my Computer Programming Degree. This is my journey...
+Currently learning Computer Programming. This is my journey...
 
 <p align='left'>
         <a href="https://github.com/quiet-ghost?tab=followers">
