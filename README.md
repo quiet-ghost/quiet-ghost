@@ -37,7 +37,7 @@ Currently learning Computer Programming at Gwinnett Tech College. Working on som
 
 ### 📊 Stats
 
-![quiet-ghost GitHub stats](https://github-readme-stats.vercel.app/api?username=quiet-ghost&show_icons=true&theme=catppuccin-mocha)
+![quiet-ghost GitHub stats](https://github-readme-stats.vercel.app/api?username=quiet-ghost&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=quiet-ghost&theme=gruvbox&border_radius=4.5) -->
 <!--
